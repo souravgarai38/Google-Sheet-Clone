@@ -205,8 +205,6 @@
     align-items: center;
     margin-inline: 20px;
     overflow-x: auto;
-    position: sticky;
-    bottom: 0;
     gap: 20px;
 }
 
